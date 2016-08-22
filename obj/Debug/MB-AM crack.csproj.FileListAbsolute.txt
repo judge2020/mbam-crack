@@ -1,0 +1,5 @@
+C:\Users\judge2020\Documents\Visual Studio 2015\Projects\loader\MB-AM crack\bin\Debug\MB-AM crack.exe
+C:\Users\judge2020\Documents\Visual Studio 2015\Projects\loader\MB-AM crack\bin\Debug\MB-AM crack.pdb
+C:\Users\judge2020\Documents\Visual Studio 2015\Projects\loader\MB-AM crack\obj\Debug\MB-AM crack.csprojResolveAssemblyReference.cache
+C:\Users\judge2020\Documents\Visual Studio 2015\Projects\loader\MB-AM crack\obj\Debug\MB-AM crack.exe
+C:\Users\judge2020\Documents\Visual Studio 2015\Projects\loader\MB-AM crack\obj\Debug\MB-AM crack.pdb
